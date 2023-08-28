@@ -1,0 +1,11 @@
+.container {
+  width: 19.5vw;
+  padding: 10px 10px 10px 10px;
+  position: relative;
+}
+
+.popover {
+  position: absolute;
+  z-index: 2;
+  margin-left: -100px;
+}

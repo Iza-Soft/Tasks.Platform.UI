@@ -1,0 +1,10 @@
+.container {
+  padding: 0 0 20px 10px;
+}
+
+div.icons {
+  display: flex;
+  width: 82%;
+  justify-content: flex-end;
+  gap: 10px;
+}
